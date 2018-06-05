@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/oracle/node-oracledb.git"
+    "url": "git@github.com:meghnad-globalids/node-oracledb.git"
   },
   "dependencies": {
     "nan": "~2.10.0"
