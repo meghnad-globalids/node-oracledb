@@ -1,5 +1,5 @@
 {
-  "name": "oracledb",
+  "name": "oracledb-vanilla",
   "version": "2.3.0-dev",
   "description": "A Node.js module for Oracle Database access",
   "license": "Apache-2.0",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/oracle/node-oracledb.git"
+    "url": "git@github.com:meghnad-globalids/node-oracledb.git"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
